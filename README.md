@@ -393,6 +393,8 @@ caused and on any theory of liability, whether in contract, strict liability,
 or tort (including negligence or otherwise) arising in any way out of the
 use of this application, even if advised of the possibility of such damage.
 
+This project is no longer supported or upkept by Unchained Capital. Please use this project at your own risk.
+
 [trezor]: https://trezor.io/
 [ledger]: https://www.ledgerwallet.com/
 [hosho]: https://www.hosho.io/
